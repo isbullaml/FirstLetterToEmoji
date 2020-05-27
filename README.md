@@ -1,2 +1,0 @@
-# FirstLetterToEmoji
-Created with CodeSandbox
